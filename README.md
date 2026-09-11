@@ -1,6 +1,6 @@
 # microproject2.AIagent
 AI agent project2
-# Microproject 2: Dual-Capability AI Agent
+# microproject 2: Dual-Capability AI Agent
 
 A smart AI agent built to handle both precise mathematical calculations and general knowledge inquiries using tool routing.
 
